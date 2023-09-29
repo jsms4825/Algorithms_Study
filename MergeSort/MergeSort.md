@@ -8,3 +8,7 @@ Merge Sort는 **Divide-and-Conquer(분할 정복)** 알고리즘의 종류 중 �
 
 ![MergeSort](./Images/MergeSortTutorial.png)
 
+## Pros and Cons
+
+- Pros
+1. 시간 복잡도는 $$ O(nlogn) $$을 보장한다.
