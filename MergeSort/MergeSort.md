@@ -18,7 +18,7 @@ Merge Sort는 **Divide-and-Conquer(분할 정복)** 알고리즘의 종류 중 �
 1. 단, Merge Sort는 추가적인 공간을 요구하므로 공간 복잡도는 증가한다.
 2. 따라서 여유 공간이 부족한 경우, Merge Sort를 이용하지 않고 그때는 Quick Sort로 대체한다.
 
-## Function
+## Functions
 ```c
 void MergeSort(int* arr, int l, int r) {
     int mid = (l + r) / 2;
