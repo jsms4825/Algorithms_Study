@@ -43,6 +43,6 @@ T(k)& \leq 2 \lbrace c(k/2)\lg_{}{k/2} \rbrace + k \\ \\
 T(k)& \leq ck(\lg_{}{k}-\lg_{}{2}) + k \\ \\
 T(k)& \leq ck(\lg_{}{k}-1) + k \\ \\
 T(k)& \leq ck \lg_{}{k} - ck + k = ck \lg_{}{k} - k(1-c) \\ \\
-\therefore T(k)& \leq 2(c\lfloor k/2 \rfloor\lg_{}{\lfloor k/2 \rfloor}) + k \\ \\
+\therefore T(k)& \leq ck \lg_{}{k} \\ \\
 \end{aligned}
 $$
