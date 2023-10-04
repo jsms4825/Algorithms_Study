@@ -43,6 +43,6 @@ T(k)& \leq 2 \lbrace c(k/2)\lg_{}{k/2} \rbrace + k \\ \\
 T(k)& \leq ck(\lg_{}{k}-\lg_{}{2}) + k \\ \\
 T(k)& \leq ck(\lg_{}{k}-1) + k \\ \\
 T(k)& \leq ck \lg_{}{k} - ck + k = ck \lg_{}{k} - k(1-c) \\ \\
-\therefore T(k)& \leq ck \lg_{}{k}, (c \geq 1) \\ \\
+\therefore T(k)& \leq ck \lg_{}{k} \quad (c \geq 1) \\ \\
 \end{aligned}
 $$
