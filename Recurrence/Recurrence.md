@@ -24,5 +24,5 @@ $$T(n) = 2T(\lfloor n/2 \rfloor) + n$$
 **Prove by induction:** $T(n) \leq cn\lg_{}{n}$
 
 **[Inductive Proof]**
-1. Basic case
-$$T(1) \leq cn\lg_{}{n}$$
+1. **Basic case:** $T(1) \leq cn\lg_{}{n}$
+2. **Inductive hypothesis:** For $n=\lfloor k/2 \rfloor$, $T(\lfloor k/2 \rfloor) \leq c\lfloor k/2 \rfloor\lg_{}{\lfloor k/2 \rfloor}$
