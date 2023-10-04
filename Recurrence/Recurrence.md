@@ -30,7 +30,7 @@ $$T(n) = 2T(\lfloor n/2 \rfloor) + n$$
 $$
 \begin{aligned}
 T(\lfloor k/2 \rfloor)& \leq c\lfloor k/2 \rfloor\lg_{}{\lfloor k/2 \rfloor} \\ \\
-T(n) = 2T(\lfloor n/2 \rfloor) + n \\ \\
-\therefore T(k) \leq 2(c\lfloor k/2 \rfloor\lg_{}{\lfloor k/2 \rfloor}) + k \\ \\
+T(n)& = 2T(\lfloor n/2 \rfloor) + n \\ \\
+\therefore T(k)& \leq 2(c\lfloor k/2 \rfloor\lg_{}{\lfloor k/2 \rfloor}) + k \\ \\
 \end{aligned}
 $$
