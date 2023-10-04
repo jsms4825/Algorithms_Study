@@ -19,4 +19,4 @@ $$T(n) = 2T(\lfloor n/2 \rfloor) + n$$
 
 Guess: $T(n) = O(nlgn)$
 
-Prove by induction: $T(n) \leg cnlgn$
+Prove by induction: $T(n) \leq cnlgn$
