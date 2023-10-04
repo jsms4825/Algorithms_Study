@@ -19,10 +19,10 @@ Substitution Method(치환법)은 크게 두 개의 과정을 거친다.
 Example>>
 $$T(n) = 2T(\lfloor n/2 \rfloor) + n$$
 
-**Guess:** $T(n) = O(n\lg_{n})$
+**Guess:** $T(n) = O(n\lg_{}{n})$
 
-**Prove by induction:** $T(n) \leq cn\lg_{n}$
+**Prove by induction:** $T(n) \leq cn\lg_{}{n}$
 
 **[Inductive Proof]**
 1. Basic case
-$$T(1) \leq cn\lg_{n}$$
+$$T(1) \leq cn\lg_{}{n}$$
