@@ -14,4 +14,4 @@ Substitution Method(치환법)은 크게 두 개의 과정을 거친다.
 1. 해의 모양을 추측
 2. 수학적 귀납법을 통한 솔루션 증명
 
-예시 문제> $$T(n) = 2T(\lfoor n/2 \lfoor) + n$$
+예시 문제> $$T(n) = 2T(\lfoor n/2 \rfoor) + n$$
